@@ -115,3 +115,5 @@ const ButtonInner = styled.div`
   justify-content: center;
   gap: 7px;
 `;
+
+//다른 컴포넌트에서 사용하려면 import Button

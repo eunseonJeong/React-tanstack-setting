@@ -77,3 +77,5 @@ const StyledInput = styled.input`
     box-shadow: 0 0 0 1px #000;
   }
 `;
+
+//다른 컴포넌트에서 사용하려면 import {Price}
